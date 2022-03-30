@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eef98e49-c486-4b2d-b666-8fa8305f801d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../url-shortener-front" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../root/.m2/repository/org/springframework/spring-web/5.3.16/spring-web-5.3.16.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="\\wsl$\UbuntuPont\root\.m2\repository" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="\\wsl$\UbuntuPont\root\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26i1GlUuJq46EbXEYuod6wPGKuc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../url-shortener-front" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\UbuntuPont\home\petersonm\Projects\url-shortener\src\main\java\br\com\zg\urlShortener" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.zg.urlShortener.models.dtos" />
+      <recent name="br.com.zg.urlShortener.controllers" />
+      <recent name="br.com.zg.urlShortener.services.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UrlShortenerApplication">
+    <configuration name="UrlOriginalServiceImplTest.getUrlOriginal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="url-shortener" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.zg.urlShortener.services.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.zg.urlShortener.services.impl" />
+      <option name="MAIN_CLASS_NAME" value="br.com.zg.urlShortener.services.impl.UrlOriginalServiceImplTest" />
+      <option name="METHOD_NAME" value="getUrlOriginal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UrlOriginalServiceImplTest.testGenerateShortener" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="url-shortener" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.zg.urlShortener.services.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.zg.urlShortener.services.impl" />
+      <option name="MAIN_CLASS_NAME" value="br.com.zg.urlShortener.services.impl.UrlOriginalServiceImplTest" />
+      <option name="METHOD_NAME" value="testGenerateShortener" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UrlOriginalServiceImplTest.testeGetUrlOriginal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="url-shortener" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.zg.urlShortener.services.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.zg.urlShortener.services.impl" />
+      <option name="MAIN_CLASS_NAME" value="br.com.zg.urlShortener.services.impl.UrlOriginalServiceImplTest" />
+      <option name="METHOD_NAME" value="testeGetUrlOriginal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular Application (url-shortener-front)" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="UrlShortenerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="url-shortener" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.zg.urlShortener.UrlShortenerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server (url-shortener-front)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/../url-shortener-front/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UrlOriginalServiceImplTest.testeGetUrlOriginal" />
+        <item itemvalue="JUnit.UrlOriginalServiceImplTest.getUrlOriginal" />
+        <item itemvalue="JUnit.UrlOriginalServiceImplTest.testGenerateShortener" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eef98e49-c486-4b2d-b666-8fa8305f801d" name="Changes" comment="" />
+      <created>1647891500828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647891500828</updated>
+      <workItem from="1647891502313" duration="276000" />
+      <workItem from="1647892070123" duration="72974000" />
+      <workItem from="1648209775749" duration="23599000" />
+      <workItem from="1648557548811" duration="24154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/zg/urlShortener/services/impl/UrlServiceImpl.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
