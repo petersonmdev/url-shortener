@@ -2,7 +2,6 @@ package br.com.zg.urlShortener.controllers;
 
 import br.com.zg.urlShortener.exception.NullReturnShortenerException;
 import br.com.zg.urlShortener.models.dtos.UrlShortenerGeneratedDTO;
-import br.com.zg.urlShortener.models.dtos.UrlShortenerListDTO;
 import br.com.zg.urlShortener.services.UrlService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

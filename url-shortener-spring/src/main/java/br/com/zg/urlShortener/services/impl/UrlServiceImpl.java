@@ -71,12 +71,10 @@ public class UrlServiceImpl implements UrlService {
         urlShortener.setAccessed(lastAccessed+1);
         this.saveShortenerSimple(urlShortener);
         String urlRedirect = urlShortener.getUrlOriginalId().getName();
-        if (!urlRedirect.contains("http://") || !urlRedirect.contains("https://")) {
-            String http = "http://";
-            String newUrlRedirect = http.concat(urlRedirect);
-            return newUrlRedirect;
-        } else {
+        if (urlRedirect.contains("http://") || urlRedirect.contains("https://")) {
             return urlRedirect;
+        } else {
+            return "http://"+urlRedirect;
         }
 
     }
