@@ -12,6 +12,8 @@ II. If the user submits the same url to shortening multiple times, the shortened
 III. When accessing the shortened url, redirection to the destination address should occur, with minimal delay.
 IV. There will be no authentication
 
+---
+
 [pt-BR]
 O site disponibiliza a funcionalidade de encurtamento de URLs, no qual encurtar a URL original e gerar um código único de até 5 caracteres.
 
@@ -25,7 +27,9 @@ IV. Não haverá autenticação
 ## Structure
 
 `url-shortener-spring` - backend developed in java using spring boot.
+
 `url-shortener-angular` - frontend developed using angular and connecting with backend using API.
+
 `Postgresql` - database used in the project.
 
 ## Additional information
